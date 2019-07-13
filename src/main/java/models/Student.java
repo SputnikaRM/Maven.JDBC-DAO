@@ -1,6 +1,6 @@
 package models;
 
-public class Student {
+public class Student implements DTO {
     private Integer id;
     private String first_name;
     private String last_name;
